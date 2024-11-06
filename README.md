@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishaq99</h1>
-<h3 align="center">Here's an updated "About" text for your GitHub profile: --- 👋 Hi, I'm Mohammad Ishaq Khan — a passionate Computer Science student at GCET Kashmir. Currently in my 2nd year, I'm dedicated to deepening my understanding of programming and software development. 🌱 I'm currently learning Java and data structures as I work towards my goal of becoming an Android developer. I'm eager to apply my skills in real-world projects and continually expand my knowledge in mobile development.</h3>
+<h3 align="center">a passionate Computer Science student at GCET Kashmir.</h3>
 
 - 📫 How to reach me **Khanishaqk88@gmail.com**
 
