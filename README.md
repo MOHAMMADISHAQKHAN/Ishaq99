@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishaq99</h1>
-<h3 align="center">a passionate Computer Science student at GCET Kashmir.</h3>
+<h3 align="center">A passionate Computer Science student at GCET Kashmir.</h3>
 
 - 📫 How to reach me **Khanishaqk88@gmail.com**
 
